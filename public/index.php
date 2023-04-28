@@ -1,9 +1,6 @@
 <?php
 
 
-phpinfo();
-
-die();
 
 
 use Illuminate\Contracts\Http\Kernel;
